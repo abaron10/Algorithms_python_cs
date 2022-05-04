@@ -1,0 +1,7 @@
+
+
+f(n) E O(g(N))
+
+"g(n) grows at leats as fast as f(n)"
+
+f(n) debe ser menor a g(n)
